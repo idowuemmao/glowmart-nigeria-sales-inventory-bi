@@ -112,8 +112,6 @@ Key DAX techniques demonstrated: `SUMX` row-context iteration, `RELATED()` cross
 
 ## 📑 Report Structure (3 Pages)
 
-| Page | Title | Purpose |
-|---|---|---|
 ## Page 1: Overview 
 Executive performance summary — all 8 core KPIs, revenue trend by month/quarter/year with MoM%, brand profitability scatter (revenue vs. gross profit) 
 <img width="864" height="492" alt="1" src="https://github.com/user-attachments/assets/c6e4fce0-2752-49b5-a1be-32cd22f6baa4" />
