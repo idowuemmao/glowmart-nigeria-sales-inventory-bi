@@ -177,12 +177,9 @@ A full video walkthrough covering the data model, all three report pages, dynami
 
 ## 👤 About
 
-Built by **Emmy** as a portfolio submission for the SkillAhead Data Analytics Challenge, and as part of ongoing data analytics and Power BI development work under **Manifest Data**.
+Built by **Emmy** as a portfolio submission for the [SkillAhead Academy](https://www.linkedin.com/company/skillahead/) AND [Etuk Anietie](https://www.linkedin.com/in/etukanietie/) Data Analytics Challenge, and as part of ongoing data analytics and Power BI development work under **Manifest Data**.
 
 This project was completed independently for skill development and portfolio purposes.
 
 ---
-
-## 📄 License
-
-This is a portfolio/educational project was organised by [SkillAhead Academy](https://www.linkedin.com/company/skillahead/) AND [Etuk Anietie](https://www.linkedin.com/in/etukanietie/)
+#SkillAheadChallenge #JKBChallenge #datadna 
