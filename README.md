@@ -115,9 +115,11 @@ Key DAX techniques demonstrated: `SUMX` row-context iteration, `RELATED()` cross
 | Page | Title | Purpose |
 |---|---|---|
 | 1 | **Overview** | Executive performance summary — all 8 core KPIs, revenue trend by month/quarter/year with MoM%, brand profitability scatter (revenue vs. gross profit) |
+<img width="864" height="492" alt="1" src="https://github.com/user-attachments/assets/c6e4fce0-2752-49b5-a1be-32cd22f6baa4" />
 | 2 | **Resolution** | Conflict resolution — expected allocation % vs. revenue share % vs. demand gap % by city, yearly transaction trend by city, the data verdict |
+<img width="863" height="492" alt="2" src="https://github.com/user-attachments/assets/49674d9f-0af9-418c-ba8c-6954b2f10167" />
 | 3 | **Recommendations** | Strategic outlook — highest/lowest/fastest-growing cities, brand-by-city revenue matrix, three evidence-backed recommendations for the MD |
-
+<img width="863" height="493" alt="3" src="https://github.com/user-attachments/assets/2112856f-c410-48ee-97dc-aef56c48f8f5" />
 Each page connects narratively to the next: Overview establishes the baseline → Resolution interrogates the conflict using city and brand data → Recommendations translates findings into specific, numbers-backed actions.
 
 ---
@@ -161,7 +163,7 @@ Each page connects narratively to the next: Overview establishes the baseline �
 
 ## 🎥 Video Walkthrough
 
-A full video walkthrough covering the data model, all three report pages, dynamic insight measures, page-level recommendations, and selected complex DAX is available here: *[add video link]*
+A full video walkthrough covering the data model, all three report pages, dynamic insight measures, page-level recommendations, and selected complex DAX is available: [HERE](https://www.linkedin.com/posts/emmanuel-idowu-analyst_powerbi-dax-dataanalytics-ugcPost-7477439032755392512-4MXL/)
 
 ---
 
@@ -175,4 +177,4 @@ This project was completed independently for skill development and portfolio pur
 
 ## 📄 License
 
-This is a portfolio/educational project using a simulated dataset. Free to reference for learning purposes — please credit if reused.
+This is a portfolio/educational project was organised by [SkillAhead Academy](https://www.linkedin.com/company/skillahead/) AND [Etuk Anietie](https://www.linkedin.com/in/etukanietie/)
